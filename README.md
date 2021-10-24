@@ -4,7 +4,8 @@
 ---
 ### 2021
 + **Certification)** google tensorflow certification 취득
-- 
++ **과학기술정보통신부)** 파이썬을 활용한 공공데이터 분석(실습) 수료 (09.27~10.01) 
++ **단국대 SW중심대학 )** SW중심대학 경소톤 참가 (09.27~진행중)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
