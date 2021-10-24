@@ -3,7 +3,7 @@
 
 ---
 ### 2021
-- google tensorflow certification 취득.
++ **Certification)** google tensorflow certification 취득
 - 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
