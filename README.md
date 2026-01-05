@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=MinseokChoi&fontSize=70&animation=twinkling)
-
+[![DevShot Bot V2](https://github.com/minseok0616/devshot-bot/actions/workflows/new_bot.yml/badge.svg)](https://github.com/minseok0616/devshot-bot/actions/workflows/new_bot.yml)
 ---
 ### 2021
 + **Certification)** google tensorflow certification 취득
